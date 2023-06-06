@@ -1,0 +1,32 @@
+* {
+    background-color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: slategrey;
+    font-weight: lighter;
+    text-align: center;
+}
+
+h2 {
+    font-weight: lighter;
+}
+
+a,
+ul.recipes {
+    color: silver;
+    text-decoration: none;
+    list-style-type: none;
+    text-align: center;
+}
+
+.recipes li {
+    padding: 1.5%;
+}
+
+img {
+    height: 300px;
+    align-content: center;
+    width: auto;
+}
